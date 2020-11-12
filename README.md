@@ -1,4 +1,4 @@
-# PPE3 ADRIEN F.
+# LOGICIEL VENTE(S)/GESTION(S) ADRIEN F.
 
 # **Organisation des fichiers/dossiers du repo. git 📚 :**
 
