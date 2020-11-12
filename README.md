@@ -1,4 +1,4 @@
-# PPE3 ADRIEN F. BTS SIO 2020/2021
+# PPE3 ADRIEN F.
 
 # **Organisation des fichiers du repo. git :**
 
