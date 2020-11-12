@@ -1,4 +1,4 @@
-# LOGICIEL VENTE(S)/GESTION(S) ADRIEN F.
+# LOGICIEL VENTE(S)/GESTION(S) PAR ADRIEN F.
 
 # **Organisation des fichiers/dossiers du repo. git 📚 :**
 
