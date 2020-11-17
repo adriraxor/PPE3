@@ -8,4 +8,4 @@
   - Fichier .SQL ***ppe3_logicielbdd_off.sql*** = Base de données SQL
 
 
-***WIKI DISPONIBLE***
+***WIKI GIT DISPONIBLE ✔️***
