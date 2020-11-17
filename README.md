@@ -8,4 +8,3 @@
   - Fichier .SQL ***ppe3_logicielbdd_off.sql*** = Base de données SQL
 
 ***WIKI GIT DISPONIBLE ✔️***                                                                                                                                                       
-***git clone https://github.com/adriraxor/PPE3.wiki.git***
