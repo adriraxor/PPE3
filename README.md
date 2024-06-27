@@ -1,5 +1,7 @@
 # LOGICIEL VENTE(S)/GESTION(S) PAR ADRIEN F.
 
+# ** L'objectif était de se former à la programmation objet de Java et apprendre l'utilisation des composants Swings **
+
 # **Organisation des fichiers/dossiers du repo. git 📚 :**
 
   - Dossier ***PPE3*** = Code source du projet
